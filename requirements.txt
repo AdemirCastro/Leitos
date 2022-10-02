@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+pathlib
+sqlalchemy
+bs4
+typing
+lxml
+openpyxl
+python-dotenv
