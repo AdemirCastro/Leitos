@@ -12,9 +12,9 @@ sudo pip3 install -r requirements.txt
 na pasta do projeto.
 ## Configuração
 As variáveis são configuradas através
-do arquivo [/config/config_file.env]()
+do arquivo [/config/config_file.env]().
 ## Execução
-O arquivo [/code/leitos.py]() contém todas as funções e módulos do projeto.
+O arquivo [/code/leitos.py]() contém todas as funções e módulos do projeto.  
 O arquivo [/code/main.py]() é utilizado para executar o conteúdo do arquivo 
 [/code/leitos.py]().
 ## Licença
