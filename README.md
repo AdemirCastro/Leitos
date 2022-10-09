@@ -1,28 +1,26 @@
 
-# Leitos hospitalares do Brasil
-Software que extrai tabelas com todos os leitos existentes no Brasil, através do CNES.DATASUS.
+# Hospital beds in Brazil
+Software that extracts tables with all existing hospital beds in Brazil, from CNES.DATASUS.
 
 
-## Requisitos
-O programa deve ser executado com Python3. Todos as bibliotecas necessárias estão listados no arquivo [/requirements.txt]().  
-Para instalar todas de uma só vez, basta executar o comando:
+## Requierements
+The program must be run with Python3. All required libraries are listed in the file [/requirements.txt]().  
+To install them all at once, just run the command:
 ```bash
 sudo pip3 install -r requirements.txt
 ```
-na pasta do projeto.
-## Configuração
-As variáveis são configuradas através
-do arquivo [/config/config_file.env]().
-## Execução
-O arquivo [/code/leitos.py]() contém todas as funções e módulos do projeto.  
-O arquivo [/code/main.py]() é utilizado para executar o conteúdo do arquivo 
-[/code/leitos.py]().
-## Licença
+in the project folder.
+## Configuration
+The runtime variables are configured through the file [/config/config_file.env]().
+## Execution
+The file [/code/leitos.py]() contains all project functions and modules.  
+The [/code/main.py]() is used to execute the contents of the file [/code/leitos.py]().
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de oademircastro@gmail.com.
+If you have any feedback, please let us know via oademircastro@gmail.com.
 
