@@ -2,12 +2,12 @@
 # Hospital beds in Brazil
 Software that extracts tables with all existing hospital beds in Brazil, from CNES.DATASUS.
 
-
+ 
 ## Requierements
 The program must be run with Python3. All required libraries are listed in the file [/requirements.txt]().  
 To install them all at once, just run the command:
 ```bash
-sudo pip3 install -r requirements.txt
+sudo pip install -r requirements.txt
 ```
 in the project folder.
 ## Configuration
